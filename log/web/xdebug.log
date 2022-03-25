@@ -13,3 +13,957 @@
 [432] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
 [432] Log closed at 2022-03-25 08:23:21.936700
 
+[454] Log opened at 2022-03-25 09:03:24.955178
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] Log closed at 2022-03-25 09:03:25.018753
+
+[18] Log opened at 2022-03-25 09:04:28.533008
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] Log closed at 2022-03-25 09:04:28.590069
+
+[449] Log opened at 2022-03-25 09:05:53.365708
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[449] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[449] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[449] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[449] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[449] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] Log closed at 2022-03-25 09:05:53.503226
+
+[20] Log opened at 2022-03-25 09:06:01.188026
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:06:01.278661
+
+[20] Log opened at 2022-03-25 09:06:04.632765
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:06:04.724239
+
+[20] Log opened at 2022-03-25 09:06:08.883770
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:06:08.940629
+
+[452] Log opened at 2022-03-25 09:06:23.531226
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[452] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[452] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[452] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[452] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[452] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:06:23.628869
+
+[21] Log opened at 2022-03-25 09:06:49.674652
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:49.734144
+
+[21] Log opened at 2022-03-25 09:06:50.423440
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:50.516073
+
+[21] Log opened at 2022-03-25 09:06:51.438144
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:51.590820
+
+[21] Log opened at 2022-03-25 09:06:52.390593
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:52.477051
+
+[21] Log opened at 2022-03-25 09:06:54.939937
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:55.035379
+
+[21] Log opened at 2022-03-25 09:06:56.306589
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:06:56.363220
+
+[454] Log opened at 2022-03-25 09:07:59.172081
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] Log closed at 2022-03-25 09:07:59.229935
+
+[456] Log opened at 2022-03-25 09:08:20.704874
+[456] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[456] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[456] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[456] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[456] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[456] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[456] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[456] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[456] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[456] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[456] Log closed at 2022-03-25 09:08:20.765402
+
+[449] Log opened at 2022-03-25 09:08:35.852508
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] Log closed at 2022-03-25 09:08:35.919497
+
+[20] Log opened at 2022-03-25 09:08:40.401579
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:08:40.454163
+
+[20] Log opened at 2022-03-25 09:08:40.458186
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:08:40.517868
+
+[452] Log opened at 2022-03-25 09:08:48.374211
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:48.432434
+
+[452] Log opened at 2022-03-25 09:08:49.457261
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:49.526189
+
+[452] Log opened at 2022-03-25 09:08:49.557373
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:49.608581
+
+[452] Log opened at 2022-03-25 09:08:50.394499
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:50.446511
+
+[452] Log opened at 2022-03-25 09:08:50.450920
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:50.508477
+
+[452] Log opened at 2022-03-25 09:08:54.123674
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:54.180257
+
+[452] Log opened at 2022-03-25 09:08:55.228523
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:55.282750
+
+[452] Log opened at 2022-03-25 09:08:56.753812
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:56.809834
+
+[452] Log opened at 2022-03-25 09:08:57.489382
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 09:08:57.543934
+
+[454] Log opened at 2022-03-25 09:10:06.115040
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] Log closed at 2022-03-25 09:10:06.171010
+
+[18] Log opened at 2022-03-25 09:26:33.697013
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] Log closed at 2022-03-25 09:26:33.833555
+
+[20] Log opened at 2022-03-25 09:26:43.288073
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 09:26:43.376258
+
+[21] Log opened at 2022-03-25 09:27:27.865514
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 09:27:27.945439
+
+[455] Log opened at 2022-03-25 09:28:02.707269
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] Log closed at 2022-03-25 09:28:02.834956
+
+[453] Log opened at 2022-03-25 09:33:23.184220
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[453] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[453] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[453] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[453] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[453] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[453] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[453] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[453] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[453] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[453] Log closed at 2022-03-25 09:33:23.320774
+
+[18] Log opened at 2022-03-25 09:37:10.153938
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] Log closed at 2022-03-25 09:37:10.300298
+
+[19] Log opened at 2022-03-25 09:39:30.890454
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] Log closed at 2022-03-25 09:39:30.961375
+
+[449] Log opened at 2022-03-25 09:39:39.887233
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] Log closed at 2022-03-25 09:39:39.946206
+
+[457] Log opened at 2022-03-25 10:55:59.279587
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[457] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[457] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[457] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[457] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[457] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[457] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[457] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[457] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[457] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[457] Log closed at 2022-03-25 10:55:59.471957
+
+[452] Log opened at 2022-03-25 10:59:11.635559
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 10:59:11.730502
+
+[20] Log opened at 2022-03-25 10:59:21.283381
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 10:59:21.372401
+
+[20] Log opened at 2022-03-25 10:59:22.412167
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 10:59:22.509128
+
+[20] Log opened at 2022-03-25 10:59:23.898019
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 10:59:23.981981
+
+[18] Log opened at 2022-03-25 12:36:56.942776
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[18] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[18] Log closed at 2022-03-25 12:36:57.078002
+
+[455] Log opened at 2022-03-25 12:37:27.638825
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] Log closed at 2022-03-25 12:37:27.719540
+
+[452] Log opened at 2022-03-25 12:37:28.701065
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[452] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[452] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 12:37:28.789819
+
+[449] Log opened at 2022-03-25 12:37:36.717926
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[449] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[449] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] Log closed at 2022-03-25 12:37:36.893909
+
+[21] Log opened at 2022-03-25 12:38:41.807083
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 12:38:41.892910
+
+[454] Log opened at 2022-03-25 12:38:42.673386
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[454] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[454] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] Log closed at 2022-03-25 12:38:42.749371
+
+[455] Log opened at 2022-03-25 12:39:15.703349
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] Log closed at 2022-03-25 12:39:15.779646
+
+[452] Log opened at 2022-03-25 12:40:27.061577
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[452] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[452] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[452] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[452] Log closed at 2022-03-25 12:40:27.148759
+
+[21] Log opened at 2022-03-25 12:40:27.907646
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 12:40:27.984257
+
+[20] Log opened at 2022-03-25 12:40:28.309153
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[20] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[20] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[20] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[20] Log closed at 2022-03-25 12:40:28.392032
+
+[21] Log opened at 2022-03-25 12:40:28.660921
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[21] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[21] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[21] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[21] Log closed at 2022-03-25 12:40:28.744397
+
+[449] Log opened at 2022-03-25 12:46:41.545406
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[449] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[449] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[449] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[449] Log closed at 2022-03-25 12:46:41.674492
+
+[455] Log opened at 2022-03-25 12:46:42.511707
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[455] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[455] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] Log closed at 2022-03-25 12:46:42.605676
+
+[454] Log opened at 2022-03-25 12:50:03.319689
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[454] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[454] Log closed at 2022-03-25 12:50:03.393094
+
+[19] Log opened at 2022-03-25 12:50:03.538707
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[19] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[19] Log closed at 2022-03-25 12:50:03.600663
+
+[455] Log opened at 2022-03-25 12:52:18.054154
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[455] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[455] Log closed at 2022-03-25 12:52:18.132519
+
+[458] Log opened at 2022-03-25 12:52:18.207964
+[458] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[458] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[458] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[458] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[458] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[458] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[458] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[458] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[458] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[458] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[458] Log closed at 2022-03-25 12:52:18.265014
+
