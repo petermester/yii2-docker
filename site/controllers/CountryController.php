@@ -5,6 +5,7 @@ namespace app\controllers;
 use yii\web\Controller;
 use yii\data\Pagination;
 use app\models\Country;
+use app\models\CountrySearch;
 
 class CountryController extends Controller
 {
@@ -22,9 +23,14 @@ class CountryController extends Controller
             ->limit($pagination->limit)
             ->all();
 
+        // $searchModel = new CountrySearch();
+        // $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
+
         return $this->render('index', [
             'countries' => $countries,
             'pagination' => $pagination,
+            // 'searchModel' => $searchModel,
+            // 'dataProvider' => $dataProvider,
         ]);
     }
 }
