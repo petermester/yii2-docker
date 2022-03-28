@@ -5,7 +5,9 @@ namespace app\controllers;
 use app\models\Weather;
 use yii\base\BaseObject;
 use yii\data\Pagination;
+use yii\db\Exception;
 use yii\web\NotFoundHttpException;
+use yii\httpclient\Client;
 
 class WeatherController extends \yii\web\Controller
 {
@@ -115,6 +117,42 @@ class WeatherController extends \yii\web\Controller
         }
 
         throw new NotFoundHttpException('The requested page does not exist.');
+    }
+
+    /**
+     * Get entities by api.
+     * Save entities into the database.
+     */
+    public function actionFetch()
+    {
+        $client = new Client();
+        $response = $client->createRequest()
+            ->setMethod('GET')
+            ->setUrl('https://api.publicapis.org/entries')
+            ->send();
+        if ($response->isOk) {
+            foreach ($response->data['entries'] as $element) {
+                if (Weather::find()
+                    ->where(['title' => $element['API']])
+                    ->count() == 0)
+                {
+                    $weather = new Weather();
+                    $weather->setAttribute('title', $element['API']);
+                    $weather->setAttribute('description', $element['Description']);
+                    $weather->setAttribute('link', $element['Link']);
+                    try {
+                        $weather->save();
+                    } catch (Exception $e) {
+                        // @TODO handle exception!
+                    }
+
+                }
+
+            }
+
+        }
+
+        return $this->render('index');
     }
 
 }
